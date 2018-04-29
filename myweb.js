@@ -186,10 +186,10 @@ function displayToc(filter) {
    var tocTable = '';
    var tocHead1 = 'عنوان الموضوع';
    var tocTool1 = 'Click to sort by title';
- //  var tocHead2 = 'التاريخ';
- //  var tocTool2 = 'Click to sort by date';
- //  var tocHead3 = 'الأقسام';
- //  var tocTool3 = '';
+   var tocHead2 = 'التاريخ';
+   var tocTool2 = 'Click to sort by date';
+   var tocHead3 = 'الأقسام';
+   var tocTool3 = '';
    if (sortBy == "titleasc") { 
       tocTool1 += ' (descending)';
       tocTool2 += ' (newest first)';
