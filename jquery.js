@@ -1,8 +1,8 @@
 window.onload = function () {
 	var copy = document.getElementById("credit");
 	if (copy == null) {
-		window.location.href = "https://www.alhomsi4elc.de/"
+		window.location.href = "http://www.i-electrician.com/"
 	};
-	copy.setAttribute("href", "https://www.alhomsi4elc.de/");
+	copy.setAttribute("href", "http://www.i-electrician.com/");
 	copy.innerHTML = "المهندس كامل الحمصي"
 };
