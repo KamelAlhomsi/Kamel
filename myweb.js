@@ -16,7 +16,7 @@
 // Modified by Aneesh 
 // www.bloggerplugins.org
 // المهندس كامل الحمصي
-// http://www.alhomsi4elc.de
+// http://www.i-electrician.com/
 // Date : 29.04.2018
 // global arrays
 
